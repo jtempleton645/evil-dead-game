@@ -1,0 +1,42 @@
+{
+    "name": "evil dead game",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.30",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#D9B782",
+        "#FF2121",
+        "#370606",
+        "#715350",
+        "#5E3636",
+        "#249CA3",
+        "#78DC52",
+        "#003FAD",
+        "#87F2FF",
+        "#8E2EC4",
+        "#808080",
+        "#DAAC07",
+        "#FFFFFF",
+        "#91463d",
+        "#000000"
+    ]
+}
